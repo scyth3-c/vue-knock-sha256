@@ -1,24 +1,18 @@
 # knock-sha256
 
-## Project setup
-```
-npm install
-```
+## sha256 converter and comparator with vue
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### link test
+[HEROKU]( https://knock-sha256.herokuapp.com/
+)
+### idle
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![captura uno](https://user-images.githubusercontent.com/52190352/135795219-3e9551b8-eab6-4efe-8c92-73699bd0ee75.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### example of automatic mode 
+
+![captura dos](https://user-images.githubusercontent.com/52190352/135795245-96e83d2a-0769-477a-9731-5f7929768c6f.png)
+
+
