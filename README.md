@@ -1,6 +1,11 @@
 # knock-sha256
 
 ## sha256 converter and comparator with vue
+_you can convert and compare SHA256 hash strings conveniently and with legacy options._
+
+## app
+
+[**FIREBASE**](https://knocksha256.web.app/) _always active_
 
 ### link test
 [HEROKU]( https://knock-sha256.herokuapp.com/
